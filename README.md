@@ -99,7 +99,7 @@ This project evolved significantly beyond its initial academic requirements. I w
 
 ---
 
-* **The Course Lecturer:** A special thank you for the continuous support, guidance, and for enthusiastically approving the "project upgrade" that allowed me to push the technical boundaries of the original assignment.
+* ** Avishay (אבישי) - The Course Lecturer:** A special thank you for the continuous support, guidance, and for enthusiastically approving the "project upgrade" that allowed me to push the technical boundaries of the original assignment.
 * **My classmates, Uria (אוריה) and Or (אור):** Thank you for your invaluable contributions to QA and cross-platform testing. Your rigorous bug-hunting, relentless testing across different devices, and brilliant architectural suggestions directly led to critical code improvements and the flawless stabilization of the final protocol.
 
 ---
