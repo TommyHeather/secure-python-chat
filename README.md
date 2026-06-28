@@ -94,5 +94,14 @@ This project is continuously evolving. Planned architectural upgrades include:
 - [ ] **Decentralization (P2P):** Transitioning away from a central server to a distributed node-based architecture.
 - [ ] **Offline Bluetooth Mesh:** Allowing clients to discover and route packets through local Bluetooth adapters in the absence of Wi-Fi.
 
+## 🙏 Acknowledgments
+This project evolved significantly beyond its initial academic requirements. I would like to express my sincere gratitude to those who made this possible:
+
 ---
+
+* **The Course Lecturer:** A special thank you for the continuous support, guidance, and for enthusiastically approving the "project upgrade" that allowed me to push the technical boundaries of the original assignment.
+* **My classmates, Uria (אוריה) and Or (אור):** Thank you for your invaluable contributions to QA and cross-platform testing. Your rigorous bug-hunting, relentless testing across different devices, and brilliant architectural suggestions directly led to critical code improvements and the flawless stabilization of the final protocol.
+
+---
+
 *Built with ❤️ by Anton for network security and protocol engineering students*
