@@ -1,0 +1,10 @@
+# SQLite database
+chat.db
+
+# Downloaded files from the chat
+received_*
+downloads/
+
+# Python cache
+__pycache__/
+*.pyc
